@@ -1,2 +1,2 @@
-# auction
+# Auction Bot [Discord.js]
  บอทประมูล
